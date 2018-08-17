@@ -10,6 +10,9 @@ Pra rodar esse negocio faz o seguinte:
 4 - Importa o projeto ProducerCEPKafka e executa na sequencia:
 
 a) MainProducerCEP5.java add event
+
 b) MainProducerCEP5.java add rule
+
 c) MainProducerCEP2.java edit rule - nao esquece de mudar o id em: "\"value\" : \"cf943226-be26-4e80-a9ad-516554ddcfbe\"
+
 d) MainProducerCEP54.java delete event nao esquece de mudar o id em: "\"value\" : \"cf943226-be26-4e80-a9ad-516554ddcfbe\"
