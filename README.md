@@ -5,8 +5,11 @@ Esse Sistema funciona como servico de CEP e mediacao de dados, recomendado para 
 Pra rodar esse negocio faz o seguinte: 
 
 1 - Instalar o kafka na configuracao padrao.
+
 2 - Importar o projeto ServiceMiddlewareCEPKafka no eclipse
+
 3 - Consfigurar kafka.properties na pasta resources, se liga nos nomes das filas que tu vai dar
+
 4 - Importar o projeto ProducerCEPKafka e executa na sequencia:
 
 a) MainProducerCEP5.java add event
