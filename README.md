@@ -19,7 +19,7 @@ d) MainProducerCEP54.java delete event nao esquece de mudar o id em: "\"value\" 
 
 5 - Importar o projeto ProducerCEPKafka no eclipse executa a classe MainProducerKafka
 
-6 - Importar o projeto ConsumerKafka no eclipse executa a classe MainProducerKafka
+6 - Importar o projeto ConsumerKafka no eclipse executa a classe MainConsumerKafka
 
 Obs.: se mudar o nome das filas vai ter quer configurar os nomes em applciationContext.xml dos projetos de exemplo.
 
